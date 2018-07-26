@@ -7,7 +7,7 @@ for (var i = 0; i <= 6; i++) { //Shows parameters of base line, going up to 6
 
 //Function that defines number as Even or Odd
 function isEven(number) { 
-    if (number % 2 === 0) { // Can number'  be divided by 2 and equal 0 exactly?
+    if (number % 2 === 0) { // Can 'number' be divided by 2 and equal 0 exactly?
    return "it is even."; //If so return even
 }
    else{ 
